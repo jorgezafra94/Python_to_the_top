@@ -40,7 +40,7 @@ print(divide2(10, 5))
 # with this we can see that they are the same thing
 
 
-print('******************* full play with lambdas ************************')
+print('******************* full play with lambdas *************************')
 # functions
 avg = lambda seq: sum(seq) / len(seq)
 total = lambda seq: sum(seq)
